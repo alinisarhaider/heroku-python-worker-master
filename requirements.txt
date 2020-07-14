@@ -1,5 +1,4 @@
-Werkzeug
-redis
+Werkzeug==0.16.1
 Flask==0.12
 rq
 requests
